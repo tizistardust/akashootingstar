@@ -10,3 +10,9 @@ p {
     text-align: left;
     margin-block-start: 10px;
 }
+
+<div class="legenda">
+<img src=a.jpeg alt="Arcondicinados" title="Ar condicionados e Climatizadores"  />
+</div>
+<br>
+<h4 class=posicionado>Ursa Maior</h4>
