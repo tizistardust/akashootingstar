@@ -1,18 +1,19 @@
-h1 {
-    text-align: center;
-}
-
-h2 {
-    text-align: center;
-}
-
-p {
-    text-align: left;
-    margin-block-start: 10px;
-}
-
-<div class="legenda">
-<img src=a.jpeg alt="Arcondicinados" title="Ar condicionados e Climatizadores"  />
+<!DOCTYPE html>
+<div class="box">
+    <img src="a..jpeg"/>
+    <span> Ursa Maior </span>
 </div>
-<br>
-<h4 class=posicionado>Ursa Maior</h4>
+<div class="box">
+    <img src="b.jpeg"/>
+    <span> Cassiopeia </span>
+</div>
+<div class="box">
+    <img src="c.jpeg"/>
+    <span> Draco</span>
+</div>
+
+<style>
+div.box {
+	width: 150px;
+	display: inline-block;
+}
