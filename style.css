@@ -1,19 +1,12 @@
 <!DOCTYPE html>
-<div class="box">
-    <img src="a..jpeg"/>
-    <span> Ursa Maior </span>
-</div>
-<div class="box">
-    <img src="b.jpeg"/>
-    <span> Cassiopeia </span>
-</div>
-<div class="box">
-    <img src="c.jpeg"/>
-    <span> Draco</span>
-</div>
-
-<style>
-div.box {
-	width: 150px;
-	display: inline-block;
+figure {
+  float: right;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
 }
