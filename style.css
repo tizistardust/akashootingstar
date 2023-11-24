@@ -21,3 +21,7 @@ margin: 20px 20px;
 Ursa maior{ font-size: 2rem;
 
 		    }
+#banner {
+    display: block;
+    margin: auto;
+}
